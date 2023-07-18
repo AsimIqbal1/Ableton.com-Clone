@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Ableton.com-Clone/static/css/main.a19c2de5.css",
+    "main.js": "/Ableton.com-Clone/static/js/main.3a397ff9.js",
+    "static/media/MainImage.jpeg": "/Ableton.com-Clone/static/media/MainImage.f36655b18f5770715f7a.jpeg",
+    "static/media/instagram.svg": "/Ableton.com-Clone/static/media/instagram.a87e74aa87462d5fae9207ea41df94e1.svg",
+    "index.html": "/Ableton.com-Clone/index.html",
+    "static/media/twitter.svg": "/Ableton.com-Clone/static/media/twitter.fac8c4a9092e5ee17f1d5151f6c49724.svg",
+    "static/media/facebook.svg": "/Ableton.com-Clone/static/media/facebook.6b43c50d5d9cfaaf3ab7ffc0e77a89af.svg",
+    "static/media/youtube.svg": "/Ableton.com-Clone/static/media/youtube.577f68ef3313f80f0a2617828563be34.svg",
+    "static/media/logo.svg": "/Ableton.com-Clone/static/media/logo.dd4873cdc47d83b09b2f72d82e26d974.svg",
+    "main.a19c2de5.css.map": "/Ableton.com-Clone/static/css/main.a19c2de5.css.map",
+    "main.3a397ff9.js.map": "/Ableton.com-Clone/static/js/main.3a397ff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a19c2de5.css",
+    "static/js/main.3a397ff9.js"
+  ]
+}
