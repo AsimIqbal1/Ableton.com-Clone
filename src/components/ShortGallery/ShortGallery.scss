@@ -1,0 +1,29 @@
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    gap: 120px;
+    margin: 5rem 0;
+    position: relative;
+
+    .yellow-square {
+        width: 60vw;
+        height: 100%;
+        position: absolute;
+        z-index: -1;
+        right: 0;
+        background-color: #FBFFA7;
+    }
+
+    .left-image {
+        width: 37rem;
+        height: 37rem;
+    }
+
+    .right-image {
+        width: 30rem;
+        height: 22.5rem;
+    }
+}

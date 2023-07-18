@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 3rem 7rem;
+
+    .image-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 80px;
+
+        .main-image {
+            background-image: url('../../public/MainImage.jpeg');
+            background-size: cover;
+            background-position: center center;
+            width: 100%;
+            height: 90vh;
+            position: relative;
+        }
+
+        .image-text {
+            position: absolute;
+            font-size: 10rem;
+            color: #FD5948;
+            font-weight: 500;
+        }
+    }
+
+
+}
